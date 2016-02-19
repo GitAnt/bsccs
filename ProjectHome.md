@@ -1,0 +1,1 @@
+Open source project to implement Bayesian self-controlled case series on CPU and GPUs.  See links for pre-compiled versions.
